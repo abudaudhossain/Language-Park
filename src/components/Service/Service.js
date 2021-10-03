@@ -10,8 +10,8 @@ const Service = (props) => {
             <div className ="card-body">
                 <h5 className ="card-title">{name}</h5>
                 <p className ="card-text">{discription}</p>
-                <span class="badge rounded-pill bg-primary p-2 m-2 fs-6">{duretion}</span>
-                <span class="badge rounded-pill bg-primary p-2 m-2 fs-6">${price}</span>
+                <span className ="badge rounded-pill bg-primary p-2 m-2 fs-6">{duretion}</span>
+                <span className ="badge rounded-pill bg-primary p-2 m-2 fs-6">${price}</span>
             </div>
             <div className = "card-footer">
             <button type="button" className = "btn btn-primary btn-lg">Enroll Now</button>
