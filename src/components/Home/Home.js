@@ -1,9 +1,11 @@
 import React from 'react';
+import CourseQuality from '../courseQuality/CourseQuality';
+
 
 const Home = () => {
     return (
-        <div>
-            <h1>this is home</h1>
+        <div id="home" className="container ">
+            <CourseQuality></CourseQuality>
         </div>
     );
 };
