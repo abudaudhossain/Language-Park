@@ -4,7 +4,7 @@
       "name": "English for Beginner",
       "discription": "This section is created for English speaking beginners who need help to understand the basics of speaking English. We will use very simple phrases",
       "duretion": "20 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
       "price": 120
     },
     {
@@ -12,7 +12,7 @@
       "name": "English for Intermedite",
       "discription": "This page shows a collection of learning material that is most useful for intermediate learners. Just click on a link and improve your English!",
       "duretion": "15 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
       "price": 150
     },
     {
@@ -20,7 +20,7 @@
       "name": "Intensive English Course",
       "discription": "You get over 77 hours of intensive spoken English language practice. Each English language lesson lasts about 1 hour and a half.",
       "duretion": "10 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
       "price": 100
     },
     {
@@ -28,7 +28,7 @@
       "name": "Spanish Course",
       "discription": "Spanish courses online. Self-paced Learning: Grammar A1, A2, B1, B2, C1, C2, Business, beginners, vocabulary, holidays, etc.",
       "duretion": "15 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
       "price": 1
     },
     {
@@ -36,7 +36,7 @@
       "name": "Frech Courses",
       "discription": "Learn French in just 5 minutes a day with our game-like lessons. Whether you're a beginner starting with the basics or looking to practice your reading",
       "duretion": "20 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
       "price": 130
     },
     {
@@ -44,7 +44,7 @@
       "name": "Chinese for Childern",
       "discription": "Chineasy inspires Chinese learning for kids with designed illustrations. Through gamification, we aim to help kids and parents bond and learn through play.",
       "duretion": "10 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
       "price": 105
     },
     {
@@ -52,7 +52,7 @@
       "name": "Language Trainigs",
       "discription": "This Course is mostly for business owners and corporat workers",
       "duretion": "12 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
       "price": 89
     },
     {
@@ -60,7 +60,7 @@
       "name": "Basic Skills",
       "discription": "This course is avalable all year round for differnt periods",
       "duretion": "16 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
       "price": 50
     },
     {
@@ -68,7 +68,7 @@
       "name": "General Chines",
       "discription": "General Chinese Course is a 3-credit course for international students who wish to learn/improve their Chinese language skills",
       "duretion": "40 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-15-copyright-342x254.jpg",
       "price": 150
     },
     {
@@ -76,7 +76,7 @@
       "name": "Arabic Languge",
       "discription": "The Arabic language courses aim to develop all four language skills in the language. Depending on the theme and exercise, ",
       "duretion": "30 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-19-copyright-342x254.jpg",
       "price": 100
     },
     {
@@ -84,7 +84,7 @@
       "name": "General Hindi Course",
       "discription": "Keeping in mind the high demand of the students, this special online course has been designed; through this course, ",
       "duretion": "15 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-6-copyright-342x254.jpg",
       "price": 60
     },
     {
@@ -92,7 +92,7 @@
       "name": "Urdhu for Beginners",
       "discription": "The course is aimed at a wide range of students with a general interest in Urdu. No prior knowledge of Urdu is required as the course is for complete beginners",
       "duretion": "22 hours",
-      "imager": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
+      "image": "http://lingvico.themerex.net/wp-content/uploads/2018/07/post-4-copyright-342x254.jpg",
       "price": 80
     }
    
