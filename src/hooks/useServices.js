@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 
-const useServices = () =>{
-    const [services , setServices] = useState([]);
+const useServices = () => {
+    const [services, setServices] = useState([]);
 
-    useEffect( () =>{
+    useEffect(() => {
         fetch('./fackData.json')
-        .then(res => res.json())
-        .then(data => setServices(data))
-    },[]);
+            .then(res => res.json())
+            .then(data => setServices(data))
+    }, []);
 
     return services;
 }
