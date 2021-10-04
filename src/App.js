@@ -13,31 +13,31 @@ function App() {
     // add Router 
     <BrowserRouter>
 
-    {/* add header section  */}
-    <Header></Header>
+      {/* add header section  */}
+      <Header></Header>
       <Switch>
         {/*this route show home page  */}
-        <Route path = "/home">
+        <Route path="/home">
           <Home></Home>
         </Route>
         {/*this route show about page  */}
-        <Route path = "/about">
+        <Route path="/about">
           <About></About>
         </Route>
         {/*this route show service page  */}
-        <Route path = "/service">
+        <Route path="/service">
           <Services></Services>
         </Route>
         {/*this route show Contact us page  */}
-        <Route path = "/contact">
+        <Route path="/contact">
           <Contact></Contact>
         </Route>
         {/*this route show Home page  */}
-        <Route exact path = "/">
+        <Route exact path="/">
           <Home></Home>
         </Route>
         {/*this route show NOt fount page  */}
-        <Route path = "*">
+        <Route path="*">
           <NotFount></NotFount>
         </Route>
 

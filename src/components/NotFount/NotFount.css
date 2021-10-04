@@ -1,15 +1,16 @@
-.not-fount{
+.not-fount {
     text-align: center;
     margin-top: 100px;
 }
 
-img{
-    width: 500px;
+img {
+    width        : 500px;
     margin-bottom: 50px
 }
-.button-area{
-    margin-top: 50px;
-    display: block;
+
+.button-area {
+    margin-top : 50px;
+    display    : block;
     align-items: center;
 
 }
